@@ -7,7 +7,7 @@ These models are used for the purposes of URAY startup (website: uray.ai).
 Repository Organization
 ------------------------------------
 
-├── LICENSE
+    ├── LICENSE
     ├── README.md          <- The top-level README for developers using this project.
     ├── data
     │   ├── intermed        <- Intermediate data that has been transformed.
