@@ -5,7 +5,7 @@ Machine Learning models application to the urine biomarkers determination via op
 These models are used for the purposes of URAY startup (website: uray.ai).
 
 Repository Organization
-====================================
+------------------------------------
 
 ├── LICENSE
     ├── README.md          <- The top-level README for developers using this project.
@@ -23,3 +23,4 @@ Repository Organization
     │
     ├── requirements.txt   <- The requirements file for reproducing the analysis environment,
                               generated with 'pip freeze > requirements.txt'
+------------------------------------
